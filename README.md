@@ -31,7 +31,7 @@ If you want to change some specific thing from that object so you will use PATCH
 <h3>DELETE request</h3>
 It will DELETE the whole object and it also only contain head.
 
-<h2>Now lets talk about These topics related to upper topics </h2>
+<h2>Now lets talk about These Instagram related to upper topics </h2>
 
 <h3>Login</h3>
 Login involves authorization .For this thet will use POST Request because you are sending data so that at backend the data can be compared so it uses POST and then get response if that user found login succesfully if not response error.
